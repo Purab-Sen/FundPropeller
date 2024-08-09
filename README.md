@@ -5,5 +5,5 @@ A java swing based application to initiate fund raising by pitching ideas and am
 To use this project:
 requirements:
 1.eclipse IDE
-2.my-sql for javabase connection
+2.my-sql for database.
 3.my-sql-jdbc connector.
