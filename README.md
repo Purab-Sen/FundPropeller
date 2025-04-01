@@ -18,7 +18,8 @@ FundPropeller is a Java Swing-based fundraising application that enables fundrai
 ```bash
 git clone https://github.com/Purab-Sen/FundPropeller.git
 ```
-### 2. Open eclipse ide and import the project from downloads.
+### 2. Open eclipse ide and import the project folder from downloads.
 ### 3. Set up Mysql database.
-### 3. Migrate to fundpropeller/src/ and open Main.java
-### 4. Run the file Main.java
+### 3. Add mysql jdbc connector to referenced library in eclipse.
+### 4. Update username and password in your dbConnection.java file
+### 5. Run the file Main.java
