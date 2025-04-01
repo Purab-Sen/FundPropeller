@@ -1,9 +1,24 @@
 # FundPropeller
 
-A java swing based application to initiate fund raising by pitching ideas and amount required where investors and fundraisers can collaborate with each other.
+FundPropeller is a Java Swing-based fundraising application that enables fundraisers to pitch ideas and investors to collaborate.
 
-To use this project:
-requirements:
-1.eclipse IDE
-2.my-sql for database.
-3.my-sql-jdbc connector.
+## 📌 Features
+- **Fundraiser & Investor Portals**: Separate views for fundraisers and investors.
+- **User Authentication**: Secure login and sign-up.
+- **Email Notifications**: Integrated email feature for updates.
+- **Database Storage**: Uses MySQL for storing user and funding data.
+
+## 🛠 Requirements
+- **Eclipse IDE**
+- **MySQL Database**
+- **MySQL JDBC Connector (8.0.28 or compatible)**
+
+## 🚀 Installation & Setup
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Purab-Sen/FundPropeller.git
+```
+### 2. Open eclipse ide and import the project from downloads.
+### 3. Set up Mysql database.
+### 3. Migrate to fundpropeller/src/ and open Main.java
+### 4. Run the file Main.java
